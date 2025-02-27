@@ -1,5 +1,4 @@
-# weather_report_.bat
-  Simply run the script, select your location, and get live weather updates right in your terminal!
+
 # Weather Information System 🌤️
  
 ![Weather GIF](https://i.pinimg.com/originals/7b/0e/2b/7b0e2b8613eec4e64c56a43f70f394f4.gif)
