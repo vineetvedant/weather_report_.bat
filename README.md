@@ -31,5 +31,5 @@ A user-friendly Batch script that fetches and displays weather information using
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/vineetvedant/<your-repository-name>.git
-   cd <your-repository-name>
+   git clone https://github.com/vineetvedant/weather_report_.bat.git
+   cd <weather.bat>
