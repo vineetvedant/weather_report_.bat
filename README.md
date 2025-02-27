@@ -1,7 +1,8 @@
 
 # Weather Information System 🌤️
  
-![Weather GIF](https://i.pinimg.com/originals/7b/0e/2b/7b0e2b8613eec4e64c56a43f70f394f4.gif)
+![Weather GIF](https://cdn.dribbble.com/userupload/19771863/file/original-f4a2e59776928a2bbe22afa329754cd9.gif)
+
 
 ![Weather Information Screenshot](https://github.com/vineetvedant/weather_report_.bat/blob/21e59a22f97ef6d63a0c74dec236c66707fb6ca5/Screenshot%202025-02-28%20000144.png)
 
