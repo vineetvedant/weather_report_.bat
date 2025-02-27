@@ -18,7 +18,7 @@ A user-friendly Batch script that fetches and displays weather information using
 - **Graphical Representation:** Displays weather conditions using ASCII art and color codes.
 - **Watermark and Branding:** Displays `~vedant_singh` as a watermark and a LinkedIn link for branding.
 - **Continuous Usage:** Loops back to the main menu for seamless experience.
-![Weather Information Screenshot]()
+
 
 ---
 
